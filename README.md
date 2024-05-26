@@ -1,6 +1,6 @@
 # Factors-impacting-Cancelled-Orders-Pakistan-Ecommerce-Dataset
 Power BI dashboard and report on understanding cancellation patterns
-Certainly! Here's the content formatted as a README file along with the markdown script:
+
 
 ---
 
